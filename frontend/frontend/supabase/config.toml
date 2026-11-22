@@ -1,0 +1,36 @@
+[functions.parent-register]
+verify_jwt = false
+[functions.parent-login]
+verify_jwt = false
+[functions.child-login]
+verify_jwt = false
+[functions.child-logout]
+verify_jwt = false
+[functions.create-child]
+verify_jwt = false
+[functions.update-child]
+verify_jwt = false
+[functions.delete-child]
+verify_jwt = false
+[functions.get-available-quizzes]
+verify_jwt = false
+[functions.get-quiz-questions]
+verify_jwt = false
+[functions.start-quiz]
+verify_jwt = false
+[functions.save-answer]
+verify_jwt = false
+[functions.resume-quiz]
+verify_jwt = false
+[functions.complete-quiz]
+verify_jwt = false
+[functions.get-child-history]
+verify_jwt = false
+[functions.get-child-report]
+verify_jwt = false
+[functions.get-parent-dashboard]
+verify_jwt = false
+[functions.get-daily-parenting-tip]
+verify_jwt = false
+[functions.parent-open-child]
+verify_jwt = false
